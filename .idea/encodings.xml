@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/folder32.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image32.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/text32.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/umd32.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/uponelevel.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/webtext32.png" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/layout/indexactivity.xml" charset="GBK" />
   </component>
 </project>

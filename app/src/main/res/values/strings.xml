@@ -3,4 +3,7 @@
     <string name="localFile">本地文件</string>
     <string name="thx">本地文件</string>
     <string name="sdcard">F:\\大四上\\BOOK</string>
+    <string name="current_dir">.</string>
+    <string name="ad">更多图书资源尽在http://www.jjwxc.net/</string>
+    <string name="up_one_level">返回上级..</string>
 </resources>

@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Reader">
         <activity
+            android:name=".HtmlBrowser"
+            android:exported="true" />
+        <activity
+            android:name=".PictureBrowser"
+            android:exported="true" />
+        <activity
             android:name=".FileBrowser"
             android:exported="true" />
         <activity

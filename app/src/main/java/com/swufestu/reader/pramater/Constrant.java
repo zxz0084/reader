@@ -10,4 +10,5 @@ public class Constrant {
     public final static String BOOK_ID = "bid";
     public final static String BOOK_PATH = "bpath";
     public final static String BOOK = "book";
+    public static int BOOK_ID_IN_DATABASE=0;
 }
