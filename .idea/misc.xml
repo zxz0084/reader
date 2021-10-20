@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidStudioProjects/reader/app/src/main/res/layout/activity_file_browser.xml" value="0.1539855072463768" />
+        <entry key="..\:/AndroidStudioProjects/reader/app/src/main/res/layout/activity_file_browser.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/reader/app/src/main/res/layout/activity_html_browser.xml" value="0.25" />
         <entry key="..\:/AndroidStudioProjects/reader/app/src/main/res/layout/activity_index.xml" value="0.16893115942028986" />
+        <entry key="..\:/AndroidStudioProjects/reader/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/reader/app/src/main/res/layout/activity_picture_browser.xml" value="0.23802083333333332" />
+        <entry key="..\:/AndroidStudioProjects/reader/app/src/main/res/layout/htmlbrowser.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/reader/app/src/main/res/layout/indexactivity.xml" value="0.16893115942028986" />
+        <entry key="..\:/AndroidStudioProjects/reader/app/src/main/res/layout/picturebrowser.xml" value="0.1" />
       </map>
     </option>
   </component>

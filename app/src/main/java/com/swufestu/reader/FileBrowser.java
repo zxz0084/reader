@@ -157,7 +157,7 @@ public class FileBrowser extends ListActivity {
                     dbHelper.close();
                     Intent i = new Intent();
                     i.putExtra("filePath",filepath);
-                    i.setClass(getApplicationContext(),)
+                    //i.setClass(getApplicationContext(),)
                     startActivity(i);
                     setProgressBarIndeterminateVisibility(true);
                 }

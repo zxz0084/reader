@@ -57,6 +57,6 @@ if(view==null){
 
     @Override
     public boolean isEnabled(int position) {
-        return Items.get(position).isSelectable();
+        return Items.get(position);
     }
 }

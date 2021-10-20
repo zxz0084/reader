@@ -7,6 +7,8 @@
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/umd32.png" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/uponelevel.png" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/webtext32.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/htmlbrowser.xml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/layout/indexactivity.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/picturebrowser.xml" charset="GBK" />
   </component>
 </project>
